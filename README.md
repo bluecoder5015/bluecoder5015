@@ -5,9 +5,9 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Competitive Coding Skills
-- 🌱 I’m currently working on NLP based Project
-- 👯 I’m looking to collaborate on Android App Development/ML and Deep Learning Project
+- 🔭 I’m currently working on Full Stack Web development
+- 🌱 Passinate Coder
+- 👯 I’m looking to collaborate on Android/Web Development/ML and Deep Learning Project
 - 📫 How to reach me: [Email](yogendrasingh6019@gmail.com)
 - 😄 Pronouns: Word hard in silence, Lets your sucess makes all the noise.
 - ⚡ Fun fact: A Silent Worker
